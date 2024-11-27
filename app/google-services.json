@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "193256540903",
+    "project_id": "fyp4-80990",
+    "storage_bucket": "fyp4-80990.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:193256540903:android:a6abaa7a18afc0042d7042",
+        "android_client_info": {
+          "package_name": "noorcom.example.fyp4"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdWj_05Ls_O5RpjetVBxq1-2kdmPMwjyw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
