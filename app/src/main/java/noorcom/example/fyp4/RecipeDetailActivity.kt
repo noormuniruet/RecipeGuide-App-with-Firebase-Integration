@@ -30,11 +30,11 @@ class RecipeDetailActivity : AppCompatActivity() {
             binding.recipeCookTime.text = it.cookTime
         }
         // Inside RecipeDetailActivity's onCreate method
-        binding.talkToBotIconRecipeDetail.setOnClickListener {
-            // Navigate to ChatbotActivity
-            val intent = Intent(this, ChatbotActivity::class.java)
-            startActivity(intent)
-        }
+//        binding.talkToBotIconRecipeDetail.setOnClickListener {
+//            // Navigate to ChatbotActivity
+//            val intent = Intent(this, ChatbotActivity::class.java)
+//            startActivity(intent)
+//        }
 
     }
 
